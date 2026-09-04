@@ -9,6 +9,7 @@ This ledger prevents an unfinished placeholder or an older APLAI capability from
 | Working hosted challenge edition | https://knat01.github.io/aplai-webmcp-challenge/ | Published; final host check pending |
 | Public source repository | https://github.com/knat01/aplai-webmcp-challenge | Published |
 | MIT license visible at repository root | [`LICENSE`](LICENSE) | Present locally |
+| Connected ChatGPT plugin view | [`submission-assets/chatgpt-aplai-plugin-connected.jpg`](submission-assets/chatgpt-aplai-plugin-connected.jpg) | Captured from the signed-in ChatGPT plugin page; no credentials or private application data visible |
 | Narrated public demo under three minutes | TODO: add the final public YouTube URL | Open |
 | Final tested source revision | Final release tag will be added after the video URL is recorded | Open |
 | Final WebMCP host check | 2026-09-03, ChatGPT Work in-app browser: `aplai_read_workspace`, `aplai_find_jobs`, `aplai_select_job`, `aplai_prepare_package`, `aplai_prepare_review`; revisions 12→16; stale revision 11 rejected at revision 12 with no state change; public video timestamp pending | Passed; public proof pending |

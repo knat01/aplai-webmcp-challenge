@@ -15,6 +15,11 @@ An agent-native path from one resume to a truthful, review-ready application.
 - Demo video: `TODO`
 - Live APLAI product: https://www.apl.ai/generator
 
+## Gallery image
+
+- Image: [`submission-assets/chatgpt-aplai-plugin-connected.jpg`](submission-assets/chatgpt-aplai-plugin-connected.jpg)
+- Caption: **APLAI connected inside ChatGPT, exposing its bounded job-application preparation actions with review controls.**
+
 ## Inspiration
 
 Job applications are repetitive, but handing the entire process to an invisible agent creates a trust problem: people cannot easily see which facts were used, what changed, or where the agent stopped. We built APLAI around a simpler idea. The person and the agent should work from the same visible page, with the same current revision, and the page—not a hidden automation—should remain the source of truth.
