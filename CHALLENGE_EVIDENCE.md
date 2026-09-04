@@ -11,7 +11,7 @@ This ledger prevents an unfinished placeholder or an older APLAI capability from
 | MIT license visible at repository root | [`LICENSE`](LICENSE) | Present locally |
 | Narrated public demo under three minutes | TODO: add the final public YouTube URL | Open |
 | Final tested source revision | Final release tag will be added after the video URL is recorded | Open |
-| Final WebMCP host check | TODO: add date, browser/host, exact five discovered tool names, and screenshot/video timestamp | Open |
+| Final WebMCP host check | 2026-09-03, ChatGPT Work in-app browser: `aplai_read_workspace`, `aplai_find_jobs`, `aplai_select_job`, `aplai_prepare_package`, `aplai_prepare_review`; revisions 12→16; stale revision 11 rejected at revision 12 with no state change; public video timestamp pending | Passed; public proof pending |
 
 ## Pre-existing baseline versus challenge-period extension
 
@@ -23,7 +23,7 @@ APLAI existed before the challenge. The production application and any remote MC
 | 2026-08-25 onward | Page-level WebMCP extension: shared visible state and imperative tool registration. | Demonstrated in the narrated production Site Tools proof; public video URL pending |
 | Challenge period | Revision-bound mutations, stale-state refusal, synthetic fixture workflow, and human-review stop. | https://github.com/knat01/aplai-webmcp-challenge/commit/e785132134bc4c2b7a36888929ccdf2fd49406b3 |
 | Challenge period | Sanitized standalone edition, accessibility/mobile polish, truthful production/demo/remote-MCP separation, and judge documentation. | https://github.com/knat01/aplai-webmcp-challenge/commit/e785132134bc4c2b7a36888929ccdf2fd49406b3 |
-| Final release candidate | Exact five-tool discovery and complete no-submit journey in a supported host. | Final release tag and narrated demo timestamp pending |
+| Final release candidate | Exact five-tool discovery and complete no-submit journey in a supported host. | ChatGPT Work passed on 2026-09-03; final release tag and narrated demo timestamp pending |
 
 Do not backfill dates from file timestamps or memory. Use the authoritative version-control and deployment records supplied by the submission owner.
 

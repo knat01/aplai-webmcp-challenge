@@ -78,7 +78,7 @@ The check compiles the inline JavaScript, verifies the exact five-tool contract 
 
 ## Safety and privacy boundary
 
-- The demo performs no `fetch`, XHR, WebSocket, form submission, navigation, storage, upload, or download.
+- The demo performs no `fetch`, XHR, WebSocket, form submission, programmatic or employer-directed navigation, storage, upload, or download. Its footer contains ordinary documentation links.
 - It contains no real resume text, identity, employer record, recruiter data, hidden contact, account, secret, or credential.
 - “Prepare package” creates a deterministic synthetic manifest; it does not call an LLM or generate a real resume or cover letter.
 - Role fixtures and fit percentages are illustrative synthetic data, visibly labeled as such.
@@ -92,7 +92,7 @@ The page uses semantic headings and an ordered workflow, a skip link, keyboard-v
 
 ```text
 .
-├── CHALLENGE_EVIDENCE.md  # pre-submission evidence ledger and placeholders
+├── CHALLENGE_EVIDENCE.md  # pre-submission evidence ledger and release gates
 ├── LICENSE                # MIT license
 ├── README.md              # setup, scope, judge path, and limitations
 ├── favicon.svg            # small local APLAI demo mark
@@ -103,7 +103,7 @@ The page uses semantic headings and an ordered workflow, a skip link, keyboard-v
 
 ## Challenge-period work
 
-APLAI predates the challenge. Only the challenge-period WebMCP extension should be judged as new work. [CHALLENGE_EVIDENCE.md](CHALLENGE_EVIDENCE.md) separates the pre-existing baseline from the new WebMCP work and deliberately leaves commit, deployment, and video proof as visible placeholders until the submission owner supplies verifiable public URLs.
+APLAI predates the challenge. Only the challenge-period WebMCP extension should be judged as new work. [CHALLENGE_EVIDENCE.md](CHALLENGE_EVIDENCE.md) separates the pre-existing baseline from the new WebMCP work, records the public source and deployment, and keeps the final video and immutable-release gates visibly open until they are complete.
 
 ## Known limitations
 

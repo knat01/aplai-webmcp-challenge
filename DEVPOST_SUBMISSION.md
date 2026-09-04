@@ -39,7 +39,7 @@ The hardest product decision was subtraction. A job-application platform could e
 
 - One visible page is shared by the human and the agent.
 - Every mutation is revision-bound and fails closed on stale state.
-- The complete five-tool flow reaches a useful review package without real personal data.
+- The complete five-tool flow reaches a review-ready synthetic manifest and handoff without real personal data.
 - The final boundary—nothing submitted—is explicit in both the UI and tool result.
 - The demo is dependency-free, keyboard accessible, responsive on phones, and testable without an account.
 
