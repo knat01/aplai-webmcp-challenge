@@ -1,0 +1,11 @@
+{
+  "name": "aplai-webmcp-challenge-edition",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free synthetic WebMCP challenge demonstration",
+  "scripts": {
+    "check": "node scripts/verify.mjs",
+    "test": "npm run check"
+  },
+  "license": "MIT"
+}
