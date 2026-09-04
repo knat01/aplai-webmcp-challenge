@@ -10,8 +10,8 @@ An agent-native path from one resume to a truthful, review-ready application.
 
 ## Links
 
-- Live challenge demo: `TODO`
-- Source: `TODO`
+- Live challenge demo: https://knat01.github.io/aplai-webmcp-challenge/
+- Source: https://github.com/knat01/aplai-webmcp-challenge
 - Demo video: `TODO`
 - Live APLAI product: https://www.apl.ai/generator
 

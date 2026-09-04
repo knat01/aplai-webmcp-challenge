@@ -76,9 +76,10 @@ check(
 );
 check(
   evidence.includes("A placeholder is not evidence") &&
-    evidence.includes("TODO: add the final public live URL") &&
-    evidence.includes("TODO: add the immutable public commit or release tag URL"),
-  "challenge evidence ledger keeps live and commit proof visibly open",
+    evidence.includes("https://knat01.github.io/aplai-webmcp-challenge/") &&
+    evidence.includes("https://github.com/knat01/aplai-webmcp-challenge") &&
+    evidence.includes("Final release tag will be added after the video URL is recorded"),
+  "challenge evidence ledger records public proof and keeps final release proof open",
 );
 
 const releaseText = [html, readme, evidence, license].join("\n");

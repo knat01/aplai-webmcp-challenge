@@ -4,11 +4,14 @@ APLAI’s challenge edition is a dependency-free, synthetic demonstration of a h
 
 Nothing in this repository can submit a job application, contact an employer, reveal a hidden contact, handle credentials, or make a network request. All candidate, employer, role, score, and document-status data in the demo is fictional.
 
-> Submission status: this directory is a local release candidate. Add the authorized public demo, repository, and narrated video URLs to [CHALLENGE_EVIDENCE.md](CHALLENGE_EVIDENCE.md) before submitting it to Devpost.
+> Submission status: the source and hosted challenge edition are public. The narrated video and final immutable release proof remain open in [CHALLENGE_EVIDENCE.md](CHALLENGE_EVIDENCE.md).
+
+- **Live challenge edition:** https://knat01.github.io/aplai-webmcp-challenge/
+- **Public source:** https://github.com/knat01/aplai-webmcp-challenge
 
 ## Judge path (about 60 seconds)
 
-1. Open the hosted challenge page in ChatGPT’s in-app browser, or in Chrome 149+ with `chrome://flags/#enable-webmcp-testing` enabled.
+1. Open the [hosted challenge page](https://knat01.github.io/aplai-webmcp-challenge/) in ChatGPT’s in-app browser, or in Chrome 149+ with `chrome://flags/#enable-webmcp-testing` enabled.
 2. Ask the agent:
 
    > Find remote AI product roles in Canada, choose the strongest match, prepare the application package, and stop for my review.

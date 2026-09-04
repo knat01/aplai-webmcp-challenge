@@ -6,11 +6,11 @@ This ledger prevents an unfinished placeholder or an older APLAI capability from
 
 | Required artifact | Public evidence | Status |
 | --- | --- | --- |
-| Working hosted challenge edition | TODO: add the final public live URL | Open |
-| Public source repository | TODO: add the final GitHub, GitLab, or Bitbucket URL | Open |
+| Working hosted challenge edition | https://knat01.github.io/aplai-webmcp-challenge/ | Published; final host check pending |
+| Public source repository | https://github.com/knat01/aplai-webmcp-challenge | Published |
 | MIT license visible at repository root | [`LICENSE`](LICENSE) | Present locally |
 | Narrated public demo under three minutes | TODO: add the final public YouTube URL | Open |
-| Final tested source revision | TODO: add the immutable public commit or release tag URL | Open |
+| Final tested source revision | Final release tag will be added after the video URL is recorded | Open |
 | Final WebMCP host check | TODO: add date, browser/host, exact five discovered tool names, and screenshot/video timestamp | Open |
 
 ## Pre-existing baseline versus challenge-period extension
@@ -19,11 +19,11 @@ APLAI existed before the challenge. The production application and any remote MC
 
 | Date or period | Scope | Evidence to attach |
 | --- | --- | --- |
-| Before 2026-08-25 | Document the relevant pre-existing APLAI baseline without copying private source into this repository. | TODO: public baseline tag, release note, or other reviewable reference |
-| 2026-08-25 onward | Page-level WebMCP extension: shared visible state and imperative tool registration. | TODO: public commit/diff URL |
-| Challenge period | Revision-bound mutations, stale-state refusal, synthetic fixture workflow, and human-review stop. | TODO: public commit/diff URL and focused test output |
-| Challenge period | Sanitized standalone edition, accessibility/mobile polish, truthful production/demo/remote-MCP separation, and judge documentation. | TODO: public commit/diff URL |
-| Final release candidate | Exact five-tool discovery and complete no-submit journey in a supported host. | TODO: final commit URL plus narrated demo timestamp |
+| Before 2026-08-25 | The production APLAI product predates the challenge and is context only; private source is not included here. | Not submitted as challenge-period evidence |
+| 2026-08-25 onward | Page-level WebMCP extension: shared visible state and imperative tool registration. | Demonstrated in the narrated production Site Tools proof; public video URL pending |
+| Challenge period | Revision-bound mutations, stale-state refusal, synthetic fixture workflow, and human-review stop. | https://github.com/knat01/aplai-webmcp-challenge/commit/e785132134bc4c2b7a36888929ccdf2fd49406b3 |
+| Challenge period | Sanitized standalone edition, accessibility/mobile polish, truthful production/demo/remote-MCP separation, and judge documentation. | https://github.com/knat01/aplai-webmcp-challenge/commit/e785132134bc4c2b7a36888929ccdf2fd49406b3 |
+| Final release candidate | Exact five-tool discovery and complete no-submit journey in a supported host. | Final release tag and narrated demo timestamp pending |
 
 Do not backfill dates from file timestamps or memory. Use the authoritative version-control and deployment records supplied by the submission owner.
 
